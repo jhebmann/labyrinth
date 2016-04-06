@@ -13,5 +13,4 @@ public class Game {
 		System.out.println(ma);
 		System.out.println(ma.nbEdge());
 	}
-
 }
